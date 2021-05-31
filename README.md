@@ -41,4 +41,4 @@ test set: treated_rmse = 2.1433064171429415 control_rmse = 1.9365001682839886 sq
 ```
 After the training, the results are saved to the specified directory.
 # Reference
-Tian Qin, Tian-Zuo Wang and Zhi-Hua Zhou. [Budgeted Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/1606.03976), 38th International Conference on Machine Learning (ICML), 2021.
+Tian Qin, Tian-Zuo Wang and Zhi-Hua Zhou. [Budgeted Heterogeneous Treatment Effect Estimation](https://TBD), 38th International Conference on Machine Learning (ICML), 2021.
