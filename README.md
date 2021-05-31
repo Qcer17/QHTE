@@ -2,7 +2,7 @@
 Query-based Heterogeneous Treatment Effect estimation (QHTE), as developed by Qin, Wang and Zhou (2021), is a method that actively selects (x,t) pairs to query for outcomes y to better estimate Heterogeneous Treatment Effect (HTE) on a given budget. QHTE is implemented in Python using PyTorch. See requirements.txt for a full list of required packages. 
 
 # Code
-Three main components of this project are the neural network model for estimating HTEs (code/cfr_net.py), the core-set query strategy as suggested in the paper (code/strategy.py), and the one to finish the full training and evaluating process (code/main.py).
+The main components of this project are the neural network model for estimating HTEs (code/cfr_net.py), the core-set query strategy as suggested in the paper (code/strategy.py), and the one to finish the full training and evaluating process (code/main.py).
 
 Some hyperparameters can be set by modifying the config.ini file. Most of the parameters are easy to understand. Here we highlight some of them to avoid confusion of potential users.
 ```
